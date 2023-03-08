@@ -52,6 +52,8 @@ class FreeplayState extends MusicBeatState
 
 	override function create()
 	{
+		Main.dumpCache();
+		
 		//Paths.clearStoredMemory();
 		//Paths.clearUnusedMemory();
 		
