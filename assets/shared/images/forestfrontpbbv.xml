@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="forestfrontpbbv.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="sexy0000" x="5" y="5" width="2077" height="1207"/>
+	<SubTexture name="sexy0001" x="2087" y="5" width="2077" height="1207"/>
+	<SubTexture name="sexy0002" x="4169" y="5" width="2077" height="1207"/>
+	<SubTexture name="sexy0003" x="5" y="1217" width="2077" height="1207"/>
+	<SubTexture name="sexy0004" x="5" y="1217" width="2077" height="1207"/>
+	<SubTexture name="sexy0005" x="5" y="1217" width="2077" height="1207"/>
+	<SubTexture name="sexy0006" x="5" y="1217" width="2077" height="1207"/>
+	<SubTexture name="sexy0007" x="5" y="1217" width="2077" height="1207"/>
+	<SubTexture name="sexy0008" x="5" y="1217" width="2077" height="1207"/>
+	<SubTexture name="sexy0009" x="5" y="1217" width="2077" height="1207"/>
+	<SubTexture name="sexy0010" x="5" y="1217" width="2077" height="1207"/>
+	<SubTexture name="sexy0011" x="5" y="1217" width="2077" height="1207"/>
+	<SubTexture name="sexy0012" x="5" y="1217" width="2077" height="1207"/>
+	<SubTexture name="sexy0013" x="5" y="1217" width="2077" height="1207"/>
+	<SubTexture name="sexy0014" x="5" y="1217" width="2077" height="1207"/>
+	<SubTexture name="sexy0015" x="5" y="1217" width="2077" height="1207"/>
+	<SubTexture name="sexy0016" x="5" y="1217" width="2077" height="1207"/>
+	<SubTexture name="sexy0017" x="5" y="1217" width="2077" height="1207"/>
+	<SubTexture name="sexy0018" x="5" y="1217" width="2077" height="1207"/>
+	<SubTexture name="sexy0019" x="5" y="1217" width="2077" height="1207"/>
+	<SubTexture name="sexy0020" x="5" y="1217" width="2077" height="1207"/>
+	<SubTexture name="sexy0021" x="5" y="1217" width="2077" height="1207"/>
+	<SubTexture name="sexy0022" x="5" y="1217" width="2077" height="1207"/>
+	<SubTexture name="sexy0023" x="5" y="1217" width="2077" height="1207"/>
+	<SubTexture name="sexy0024" x="5" y="1217" width="2077" height="1207"/>
+	<SubTexture name="sexy0025" x="5" y="1217" width="2077" height="1207"/>
+	<SubTexture name="sexy0026" x="5" y="1217" width="2077" height="1207"/>
+	<SubTexture name="sexy0027" x="5" y="1217" width="2077" height="1207"/>
+	<SubTexture name="sexy0028" x="5" y="1217" width="2077" height="1207"/>
+</TextureAtlas>

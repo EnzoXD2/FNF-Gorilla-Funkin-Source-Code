@@ -1,0 +1,32 @@
+{
+	"storyName": "Pbbv is here pbbv is watching",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Encoded",
+			"pbbv",
+			[
+				255,
+				155,
+				195
+			]
+		]
+	],
+	"weekCharacters": [
+		"pbbv",
+		"bfgorilla",
+		"gfgorilla"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "pbbv is watching pbbv is here"
+}

@@ -1,0 +1,11 @@
+{
+	"idle_anim": "idle",
+	"image": "Capuchin",
+	"position": [
+		90,
+		110
+	],
+	"flipX": false,
+	"scale": 0.55,
+	"confirm_anim": "idle"
+}

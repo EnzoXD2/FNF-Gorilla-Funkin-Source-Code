@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "M Dad Idle",
+	"idle_anim": "idle",
+	"position": [
+		364,
+		513
+	],
+	"scale": 0.55,
+	"image": "GfGorilla",
+	"flipX": false
+}

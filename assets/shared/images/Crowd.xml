@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Crowd.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="grah0000" x="0" y="0" width="2001" height="658" frameX="-16" frameY="-17" frameWidth="2037" frameHeight="688"/>
+	<SubTexture name="grah0001" x="2006" y="0" width="2001" height="658" frameX="-16" frameY="-17" frameWidth="2037" frameHeight="688"/>
+	<SubTexture name="grah0002" x="0" y="663" width="1977" height="670" frameX="-27" frameY="0" frameWidth="2037" frameHeight="688"/>
+	<SubTexture name="grah0003" x="1982" y="663" width="1977" height="671" frameX="-27" frameY="0" frameWidth="2037" frameHeight="688"/>
+	<SubTexture name="grah0004" x="0" y="1339" width="2001" height="657" frameX="-16" frameY="-3" frameWidth="2037" frameHeight="688"/>
+	<SubTexture name="grah0005" x="2006" y="1339" width="2001" height="658" frameX="-16" frameY="-3" frameWidth="2037" frameHeight="688"/>
+	<SubTexture name="grah0006" x="0" y="2002" width="2037" height="627" frameX="0" frameY="-60" frameWidth="2037" frameHeight="688"/>
+	<SubTexture name="grah0007" x="2042" y="2002" width="2037" height="628" frameX="0" frameY="-60" frameWidth="2037" frameHeight="688"/>
+</TextureAtlas>

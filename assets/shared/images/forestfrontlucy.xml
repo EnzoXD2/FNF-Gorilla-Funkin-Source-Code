@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="forestfrontlucy.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Front0000" x="0" y="0" width="2142" height="1205"/>
+	<SubTexture name="Front0001" x="0" y="0" width="2142" height="1205"/>
+	<SubTexture name="Front0002" x="2147" y="0" width="2142" height="1205"/>
+	<SubTexture name="Front0003" x="2147" y="0" width="2142" height="1205"/>
+	<SubTexture name="Front0004" x="4294" y="0" width="2142" height="1205"/>
+	<SubTexture name="Front0005" x="4294" y="0" width="2142" height="1205"/>
+	<SubTexture name="Front0006" x="0" y="1210" width="2142" height="1205"/>
+	<SubTexture name="Front0007" x="0" y="1210" width="2142" height="1205"/>
+	<SubTexture name="Front0008" x="2147" y="1210" width="2142" height="1205"/>
+	<SubTexture name="Front0009" x="2147" y="1210" width="2142" height="1205"/>
+	<SubTexture name="Front0010" x="4294" y="1210" width="2142" height="1205"/>
+	<SubTexture name="Front0011" x="4294" y="1210" width="2142" height="1205"/>
+	<SubTexture name="Front0012" x="0" y="2420" width="2142" height="1205"/>
+	<SubTexture name="Front0013" x="0" y="2420" width="2142" height="1205"/>
+	<SubTexture name="Front0014" x="2147" y="2420" width="2142" height="1205"/>
+	<SubTexture name="Front0015" x="2147" y="2420" width="2142" height="1205"/>
+	<SubTexture name="Front0016" x="4294" y="2420" width="2142" height="1205"/>
+	<SubTexture name="Front0017" x="4294" y="2420" width="2142" height="1205"/>
+	<SubTexture name="Front0018" x="0" y="2420" width="2142" height="1205"/>
+	<SubTexture name="Front0019" x="0" y="2420" width="2142" height="1205"/>
+	<SubTexture name="Front0020" x="2147" y="2420" width="2142" height="1205"/>
+	<SubTexture name="Front0021" x="2147" y="2420" width="2142" height="1205"/>
+	<SubTexture name="Front0022" x="4294" y="2420" width="2142" height="1205"/>
+	<SubTexture name="Front0023" x="4294" y="2420" width="2142" height="1205"/>
+	<SubTexture name="Front0024" x="0" y="2420" width="2142" height="1205"/>
+	<SubTexture name="Front0025" x="0" y="2420" width="2142" height="1205"/>
+	<SubTexture name="Front0026" x="2147" y="2420" width="2142" height="1205"/>
+	<SubTexture name="Front0027" x="2147" y="2420" width="2142" height="1205"/>
+	<SubTexture name="Front0028" x="4294" y="2420" width="2142" height="1205"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boy capuchin.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ya0000" x="5" y="5" width="562" height="719" frameX="0" frameY="-15" frameWidth="562" frameHeight="734"/>
+	<SubTexture name="ya0001" x="5" y="5" width="562" height="719" frameX="0" frameY="-15" frameWidth="562" frameHeight="734"/>
+	<SubTexture name="ya0002" x="572" y="5" width="554" height="723" frameX="-7" frameY="-11" frameWidth="562" frameHeight="734"/>
+	<SubTexture name="ya0003" x="572" y="5" width="554" height="723" frameX="-7" frameY="-11" frameWidth="562" frameHeight="734"/>
+	<SubTexture name="ya0004" x="1131" y="5" width="541" height="734" frameX="-13" frameY="0" frameWidth="562" frameHeight="734"/>
+	<SubTexture name="ya0005" x="1131" y="5" width="541" height="734" frameX="-13" frameY="0" frameWidth="562" frameHeight="734"/>
+	<SubTexture name="ya0006" x="5" y="744" width="541" height="734" frameX="-13" frameY="0" frameWidth="562" frameHeight="734"/>
+	<SubTexture name="ya0007" x="5" y="744" width="541" height="734" frameX="-13" frameY="0" frameWidth="562" frameHeight="734"/>
+	<SubTexture name="ya0008" x="5" y="744" width="541" height="734" frameX="-13" frameY="0" frameWidth="562" frameHeight="734"/>
+	<SubTexture name="ya0009" x="5" y="744" width="541" height="734" frameX="-13" frameY="0" frameWidth="562" frameHeight="734"/>
+	<SubTexture name="ya0010" x="5" y="744" width="541" height="734" frameX="-13" frameY="0" frameWidth="562" frameHeight="734"/>
+	<SubTexture name="ya0011" x="5" y="744" width="541" height="734" frameX="-13" frameY="0" frameWidth="562" frameHeight="734"/>
+	<SubTexture name="ya0012" x="5" y="744" width="541" height="734" frameX="-13" frameY="0" frameWidth="562" frameHeight="734"/>
+	<SubTexture name="ya0013" x="5" y="744" width="541" height="734" frameX="-13" frameY="0" frameWidth="562" frameHeight="734"/>
+</TextureAtlas>

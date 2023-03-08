@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				620,
+				1020
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				1200,
+				-1440
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Dad Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				660,
+				1500
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"offsets": [
+				-1390,
+				1550
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"offsets": [
+				1210,
+				1400
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/GfGorilla",
+	"position": [
+		400,
+		150
+	],
+	"healthicon": "dave",
+	"flip_x": false,
+	"healthbar_colors": [
+		198,
+		182,
+		182
+	],
+	"camera_position": [
+		-100,
+		120
+	],
+	"sing_duration": 6.1,
+	"scale": 0.749999999999999
+}

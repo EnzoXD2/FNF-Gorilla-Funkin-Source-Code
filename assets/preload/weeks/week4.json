@@ -1,0 +1,59 @@
+{
+	"storyName": "extras",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Shelf",
+			"mgkid",
+			[
+				115,
+				255,
+				195
+			]
+		],
+		[
+			"Moustardaphobia",
+			"lucy",
+			[
+				115,
+				195,
+				255
+			]
+		],
+		[
+			"RealLeak",
+			"scratch",
+			[
+				195,
+				55,
+				255
+			]
+		],
+		[
+			"Policecame",
+			"scratch",
+			[
+				155,
+				15,
+				215
+			]
+		]
+	],
+	"weekCharacters": [
+		"mgkid",
+		"bfgorilla",
+		"gfgorilla"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Extra"
+}

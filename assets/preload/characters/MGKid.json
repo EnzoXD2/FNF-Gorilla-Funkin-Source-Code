@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				44,
+				-141
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				46,
+				-174
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				57,
+				-199
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				5,
+				-186
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				38,
+				-149
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				29,
+				-149
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "wannaplay",
+			"indices": [],
+			"name": "wannaplaydeez"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MGKid",
+	"position": [
+		30,
+		20
+	],
+	"healthicon": "mgkid",
+	"flip_x": false,
+	"healthbar_colors": [
+		50,
+		255,
+		118
+	],
+	"camera_position": [
+		70,
+		210
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

@@ -1,0 +1,41 @@
+{
+	"storyName": "funi capuchin no way crazy i am flabbergasted (idk how to spell)",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"capuchin",
+		"boycapuchin",
+		"gfbye"
+	],
+	"songs": [
+		[
+			"Capuchin",
+			"capuchin",
+			[
+				106,
+				93,
+				255
+			]
+		],
+		[
+			"Breach",
+			"dave",
+			[
+				155,
+				153,
+				153
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "minor",
+	"hiddenUntilUnlocked": false
+}

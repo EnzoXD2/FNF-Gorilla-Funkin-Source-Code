@@ -1,0 +1,50 @@
+{
+	"storyName": "monkereel?!11?!",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Casual",
+			"gorilla",
+			[
+				115,
+				95,
+				235
+			]
+		],
+		[
+			"Infection",
+			"lavagorilla",
+			[
+				255,
+				155,
+				95
+			]
+		],
+		[
+			"Eruption",
+			"magmagorilla",
+			[
+				255,
+				115,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"Gorilla",
+		"BfGorilla",
+		"GfGorilla"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "forest"
+}

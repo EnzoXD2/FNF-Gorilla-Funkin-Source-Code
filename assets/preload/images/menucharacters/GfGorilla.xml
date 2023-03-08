@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GfGorilla.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="328" height="513" frameX="-33" frameY="-26" frameWidth="374" frameHeight="539"/>
+	<SubTexture name="idle0001" x="0" y="0" width="328" height="513" frameX="-33" frameY="-26" frameWidth="374" frameHeight="539"/>
+	<SubTexture name="idle0002" x="333" y="0" width="341" height="512" frameX="-33" frameY="-22" frameWidth="374" frameHeight="539"/>
+	<SubTexture name="idle0003" x="333" y="0" width="341" height="512" frameX="-33" frameY="-22" frameWidth="374" frameHeight="539"/>
+	<SubTexture name="idle0004" x="679" y="0" width="333" height="528" frameX="-3" frameY="0" frameWidth="374" frameHeight="539"/>
+	<SubTexture name="idle0005" x="679" y="0" width="333" height="528" frameX="-3" frameY="0" frameWidth="374" frameHeight="539"/>
+	<SubTexture name="idle0006" x="1017" y="0" width="346" height="525" frameX="0" frameY="-5" frameWidth="374" frameHeight="539"/>
+	<SubTexture name="idle0007" x="1017" y="0" width="346" height="525" frameX="0" frameY="-5" frameWidth="374" frameHeight="539"/>
+	<SubTexture name="idle0008" x="1368" y="0" width="340" height="525" frameX="0" frameY="-3" frameWidth="374" frameHeight="539"/>
+	<SubTexture name="idle0009" x="1368" y="0" width="340" height="525" frameX="0" frameY="-3" frameWidth="374" frameHeight="539"/>
+	<SubTexture name="idle0010" x="0" y="533" width="340" height="525" frameX="0" frameY="-3" frameWidth="374" frameHeight="539"/>
+	<SubTexture name="idle0011" x="0" y="533" width="340" height="525" frameX="0" frameY="-3" frameWidth="374" frameHeight="539"/>
+	<SubTexture name="idle0012" x="0" y="533" width="340" height="525" frameX="0" frameY="-3" frameWidth="374" frameHeight="539"/>
+	<SubTexture name="idle0013" x="0" y="533" width="340" height="525" frameX="0" frameY="-3" frameWidth="374" frameHeight="539"/>
+</TextureAtlas>

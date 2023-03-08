@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "ferf",
+	"idle_anim": "ferf",
+	"position": [
+		-100,
+		184
+	],
+	"scale": 0.5,
+	"image": "Boycapuchne",
+	"flipX": false
+}

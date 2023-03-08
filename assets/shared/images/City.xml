@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="City.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gra0000" x="0" y="0" width="1902" height="1143"/>
+	<SubTexture name="gra0001" x="0" y="0" width="1902" height="1143"/>
+	<SubTexture name="gra0002" x="1907" y="0" width="1902" height="1143"/>
+	<SubTexture name="gra0003" x="1907" y="0" width="1902" height="1143"/>
+	<SubTexture name="gra0004" x="0" y="1148" width="1902" height="1143"/>
+	<SubTexture name="gra0005" x="0" y="1148" width="1902" height="1143"/>
+	<SubTexture name="gra0006" x="1907" y="1148" width="1902" height="1143"/>
+	<SubTexture name="gra0007" x="1907" y="1148" width="1902" height="1143"/>
+	<SubTexture name="gra0008" x="0" y="2296" width="1902" height="1143"/>
+	<SubTexture name="gra0009" x="0" y="2296" width="1902" height="1143"/>
+	<SubTexture name="gra0010" x="0" y="2296" width="1902" height="1143"/>
+	<SubTexture name="gra0011" x="0" y="2296" width="1902" height="1143"/>
+	<SubTexture name="gra0012" x="0" y="2296" width="1902" height="1143"/>
+	<SubTexture name="gra0013" x="0" y="2296" width="1902" height="1143"/>
+</TextureAtlas>

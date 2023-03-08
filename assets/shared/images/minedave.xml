@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="minedave.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dave0000" x="5" y="5" width="6212" height="1626" frameX="-2656" frameY="0" frameWidth="8868" frameHeight="1626"/>
+	<SubTexture name="Dave0001" x="5" y="5" width="6212" height="1626" frameX="-2656" frameY="0" frameWidth="8868" frameHeight="1626"/>
+	<SubTexture name="Dave0002" x="5" y="5" width="6212" height="1626" frameX="-2656" frameY="0" frameWidth="8868" frameHeight="1626"/>
+	<SubTexture name="Dave0003" x="5" y="5" width="6212" height="1626" frameX="-2324" frameY="0" frameWidth="8868" frameHeight="1626"/>
+	<SubTexture name="Dave0004" x="5" y="5" width="6212" height="1626" frameX="-2324" frameY="0" frameWidth="8868" frameHeight="1626"/>
+	<SubTexture name="Dave0005" x="5" y="5" width="6212" height="1626" frameX="-2324" frameY="0" frameWidth="8868" frameHeight="1626"/>
+	<SubTexture name="Dave0006" x="5" y="5" width="6212" height="1626" frameX="-1992" frameY="0" frameWidth="8868" frameHeight="1626"/>
+	<SubTexture name="Dave0007" x="5" y="5" width="6212" height="1626" frameX="-1992" frameY="0" frameWidth="8868" frameHeight="1626"/>
+	<SubTexture name="Dave0008" x="5" y="5" width="6212" height="1626" frameX="-1992" frameY="0" frameWidth="8868" frameHeight="1626"/>
+	<SubTexture name="Dave0009" x="5" y="1636" width="6211" height="1626" frameX="-1660" frameY="0" frameWidth="8868" frameHeight="1626"/>
+	<SubTexture name="Dave0010" x="5" y="1636" width="6211" height="1626" frameX="-1660" frameY="0" frameWidth="8868" frameHeight="1626"/>
+	<SubTexture name="Dave0011" x="5" y="1636" width="6211" height="1626" frameX="-1660" frameY="0" frameWidth="8868" frameHeight="1626"/>
+	<SubTexture name="Dave0012" x="5" y="5" width="6212" height="1626" frameX="-1328" frameY="0" frameWidth="8868" frameHeight="1626"/>
+	<SubTexture name="Dave0013" x="5" y="5" width="6212" height="1626" frameX="-1328" frameY="0" frameWidth="8868" frameHeight="1626"/>
+	<SubTexture name="Dave0014" x="5" y="5" width="6212" height="1626" frameX="-1328" frameY="0" frameWidth="8868" frameHeight="1626"/>
+	<SubTexture name="Dave0015" x="5" y="5" width="6212" height="1626" frameX="-996" frameY="0" frameWidth="8868" frameHeight="1626"/>
+	<SubTexture name="Dave0016" x="5" y="5" width="6212" height="1626" frameX="-996" frameY="0" frameWidth="8868" frameHeight="1626"/>
+	<SubTexture name="Dave0017" x="5" y="5" width="6212" height="1626" frameX="-996" frameY="0" frameWidth="8868" frameHeight="1626"/>
+	<SubTexture name="Dave0018" x="5" y="1636" width="6211" height="1626" frameX="-664" frameY="0" frameWidth="8868" frameHeight="1626"/>
+	<SubTexture name="Dave0019" x="5" y="1636" width="6211" height="1626" frameX="-664" frameY="0" frameWidth="8868" frameHeight="1626"/>
+	<SubTexture name="Dave0020" x="5" y="1636" width="6211" height="1626" frameX="-664" frameY="0" frameWidth="8868" frameHeight="1626"/>
+	<SubTexture name="Dave0021" x="5" y="5" width="6212" height="1626" frameX="-332" frameY="0" frameWidth="8868" frameHeight="1626"/>
+	<SubTexture name="Dave0022" x="5" y="5" width="6212" height="1626" frameX="-332" frameY="0" frameWidth="8868" frameHeight="1626"/>
+	<SubTexture name="Dave0023" x="5" y="5" width="6212" height="1626" frameX="-332" frameY="0" frameWidth="8868" frameHeight="1626"/>
+	<SubTexture name="Dave0024" x="5" y="3267" width="6211" height="1626" frameX="0" frameY="0" frameWidth="8868" frameHeight="1626"/>
+	<SubTexture name="Dave0025" x="5" y="3267" width="6211" height="1626" frameX="0" frameY="0" frameWidth="8868" frameHeight="1626"/>
+	<SubTexture name="Dave0026" x="5" y="3267" width="6211" height="1626" frameX="0" frameY="0" frameWidth="8868" frameHeight="1626"/>
+</TextureAtlas>
