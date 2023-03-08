@@ -49,6 +49,8 @@ class MainMenuState extends MusicBeatState
 
 	override function create()
 	{
+		Main.dumpCache();
+		
 		#if MODS_ALLOWED
 		Paths.pushGlobalMods();
 		#end
