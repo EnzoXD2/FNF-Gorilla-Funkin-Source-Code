@@ -72,6 +72,27 @@ class Main extends Sprite
 
 		setupGame();
 	}
+	
+	public static function dumpCache()
+        {
+            @:privateAccess
+            for (key in FlxG.bitmap._cache.keys())
+            {
+                var obj = FlxG.bitmap._cache.get(key);
+                if (obj != null)
+                {
+                    Assets.cache.removeBitmapData(key);
+                    FlxG.bitmap._cache.remove(key);
+                    obj.destroy();
+                }
+            }
+            Paths.localTrackedAssets = [];
+            Paths.currentTrackedAssets = [];
+            Assets.cache.clear("songs");
+            Assets.cache.clear("shared");
+            Assets.cache.clear("preload");
+            // */
+        }
 
 	private function setupGame():Void
 	{
